@@ -1,0 +1,1 @@
+messageworker: bundle exec sidekiq -c 2
