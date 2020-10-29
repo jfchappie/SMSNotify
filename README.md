@@ -1,9 +1,6 @@
-# README
+# SMSNotification API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This is a demo project that will test load balancing SMS messages between several services.
 
 * Ruby version
 
